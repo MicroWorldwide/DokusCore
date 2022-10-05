@@ -1,0 +1,72 @@
+[submodule "DokusCore"]
+	path = DokusCore
+	url = https://github.com/DokusCore/DokusCore
+[submodule "DokusCore--Banking"]
+	path = DokusCore--Banking
+	url = https://github.com/DokusCore/DokusCore--Banking.git
+[submodule "DokusCore--DataSync"]
+	path = DokusCore--DataSync
+	url = https://github.com/DokusCore/DokusCore--DataSync
+[submodule "DokusCore--Characters"]
+	path = DokusCore--Characters
+	url = https://github.com/DokusCore/DokusCore--Characters.git
+[submodule "DokusCore--CoreMenu"]
+	path = DokusCore--CoreMenu
+	url = https://github.com/DokusCore/DokusCore--CoreMenu.git
+[submodule "DokusCore--Clothing"]
+	path = DokusCore--Clothing
+	url = https://github.com/DokusCore/DokusCore--Clothing.git
+[submodule "DokusCore--FastTravel"]
+	path = DokusCore--FastTravel
+	url = https://github.com/DokusCore/DokusCore--FastTravel.git
+[submodule "DokusCore--Guidance"]
+	path = DokusCore--Guidance
+	url = https://github.com/DokusCore/DokusCore--Guidance.git
+[submodule "DokusCore--Instruments"]
+	path = DokusCore--Instruments
+	url = https://github.com/DokusCore/DokusCore--Instruments.git
+[submodule "DokusCore--Metabolism"]
+	path = DokusCore--Metabolism
+	url = https://github.com/DokusCore/DokusCore--Metabolism.git
+[submodule "DokusCore--NPCMenu"]
+	path = DokusCore--NPCMenu
+	url = https://github.com/DokusCore/DokusCore--NPCMenu.git
+[submodule "DokusCore--ScratchCards"]
+	path = DokusCore--ScratchCards
+	url = https://github.com/DokusCore/DokusCore--ScratchCards.git
+[submodule "DokusCore--ScriptBundle"]
+	path = DokusCore--ScriptBundle
+	url = https://github.com/DokusCore/DokusCore--ScriptBundle.git
+[submodule "DokusCore--Stables"]
+	path = DokusCore--Stables
+	url = https://github.com/DokusCore/DokusCore--Stables.git
+[submodule "DokusCore--Spawner"]
+	path = DokusCore--Spawner
+	url = https://github.com/DokusCore/DokusCore--Spawner.git
+[submodule "DokusCore--Skins"]
+	path = DokusCore--Skins
+	url = https://github.com/DokusCore/DokusCore--Skins.git
+[submodule "DokusCore--Stores"]
+	path = DokusCore--Stores
+	url = https://github.com/DokusCore/DokusCore--Stores.git
+[submodule "DokusCore--UsableItems"]
+	path = DokusCore--UsableItems
+	url = https://github.com/DokusCore/DokusCore--UsableItems.git
+[submodule "DokusCore--WorldEdits"]
+	path = DokusCore--WorldEdits
+	url = https://github.com/DokusCore/DokusCore--WorldEdits.git
+[submodule "DokusCore--Zones"]
+	path = DokusCore--Zones
+	url = https://github.com/DokusCore/DokusCore--Zones.git
+[submodule "DokusCore--Telegrams"]
+	path = DokusCore--Telegrams
+	url = https://github.com/DokusCore/DokusCore--Telegrams.git
+[submodule "DokusCore--Trains"]
+	path = DokusCore--Trains
+	url = https://github.com/DokusCore/DokusCore--Trains.git
+[submodule "DokusCore--Boats"]
+	path = DokusCore--Boats
+	url = https://github.com/DokusCore/DokusCore--Boats.git
+[submodule "DokusCore--Inventory"]
+	path = DokusCore--Inventory
+	url = https://github.com/DokusCore/DokusCore--Inventory.git
