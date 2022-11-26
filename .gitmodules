@@ -70,3 +70,12 @@
 [submodule "DokusCore--Inventory"]
 	path = DokusCore--Inventory
 	url = https://github.com/DokusCore/DokusCore--Inventory.git
+[submodule "DokusCore--Weapons"]
+	path = DokusCore--Weapons
+	url = https://github.com/DokusCore/DokusCore--Weapons
+[submodule "DokusCore--Scavenger"]
+	path = DokusCore--Scavenger
+	url = https://github.com/DokusCore/DokusCore--Scavenger
+[submodule "DokusCore--GunStore"]
+	path = DokusCore--GunStore
+	url = https://github.com/DokusCore/DokusCore--GunStore
