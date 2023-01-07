@@ -79,3 +79,12 @@
 [submodule "DokusCore--GunStore"]
 	path = DokusCore--GunStore
 	url = https://github.com/DokusCore/DokusCore--GunStore
+[submodule "DokusCore--SafeGuard"]
+	path = DokusCore--SafeGuard
+	url = https://github.com/DokusCore/DokusCore--SafeGuard.git
+[submodule "DokusCore--LumberJack"]
+	path = DokusCore--LumberJack
+	url = https://github.com/DokusCore/DokusCore--LumberJack.git
+[submodule "DokusCore--AdminMenu"]
+	path = DokusCore--AdminMenu
+	url = https://github.com/DokusCore/DokusCore--AdminMenu.git
