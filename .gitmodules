@@ -88,3 +88,18 @@
 [submodule "DokusCore--AdminMenu"]
 	path = DokusCore--AdminMenu
 	url = https://github.com/DokusCore/DokusCore--AdminMenu.git
+[submodule "DokusCore--Properties"]
+	path = DokusCore--Properties
+	url = https://github.com/DokusCore/DokusCore--Properties.git
+[submodule "DokusCore--OneFix"]
+	path = DokusCore--OneFix
+	url = https://github.com/DokusCore/DokusCore--OneFix.git
+[submodule "DokusCore--DoorLocks"]
+	path = DokusCore--DoorLocks
+	url = https://github.com/DokusCore/DokusCore--DoorLocks.git
+[submodule "DokusCore--Dependencies"]
+	path = DokusCore--Dependencies
+	url = https://github.com/DokusCore/DokusCore--Dependencies.git
+[submodule "DokusCore--Quests"]
+	path = DokusCore--Quests
+	url = https://github.com/DokusCore/DokusCore--Quests.git
